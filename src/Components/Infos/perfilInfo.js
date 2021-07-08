@@ -9,7 +9,10 @@ export const Nomes = [
     <>Juju</>,
     <>Fred</>,
     <>Billy</>,
-    <>Alfredo</>
+    <>Alfredo</>,
+    <>Rex</>,
+    <>Tom</>,
+    <>Bob</>
 ]
 
 export const Nickname = [
@@ -23,7 +26,10 @@ export const Nickname = [
     <>@ju</>,
     <>@fred</>,
     <>@billy</>,
-    <>@alfredo</>
+    <>@alfredo</>,
+    <>@rex</>,
+    <>@tom</>,
+    <>@bob</>
 ]
 
 export const Descricao = [
