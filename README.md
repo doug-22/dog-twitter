@@ -12,6 +12,9 @@
 O Dog Twitter é a página do perfil de um doguinho baseada no projeto UI Clone do Twitter da [Rocketseat's](https://rocketseat.com.br), disponível no [YouTube](https://youtu.be/K-8z_4xvT3o). O projeto inicial da Rocketseat visa criar um perfil normal com foco em mostrar como funciona a responsividade do Twitter.
 
 <br />
+Você pode acessar a página do perfil [aqui](https://dog-twitter.netlify.app/)
+<br />
+
 
 ### :bookmark_tabs: Contribuição
 
