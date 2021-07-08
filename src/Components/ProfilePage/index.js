@@ -79,7 +79,7 @@ class ProfilePage extends Component {
       <Container>
         <Banner>
           <Avatar>
-            <img src={imagePerfil} />
+            <img alt="cachorro" src={imagePerfil} />
           </Avatar>
         </Banner>
   

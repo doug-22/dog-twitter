@@ -1,6 +1,6 @@
 import React from "react"
 
-import { Container, Tab, Tweets} from "./styles"
+import { Container, MenuTab, Tab, Tweets} from "./styles"
 import Tweet from "../Tweet"
 
 const Feed = (props) => {
@@ -11,7 +11,12 @@ const Feed = (props) => {
 
   return(
     <Container>
-      <Tab>Tweets</Tab>
+      <MenuTab>
+        <Tab className="active">Tweets</Tab>
+        <Tab>Tweets e respostas</Tab>
+        <Tab>Mídia</Tab>
+        <Tab>Curtidas</Tab>
+      </MenuTab>
 
       <Tweets>
         {dogsArray}

@@ -8,7 +8,8 @@ export const Nomes = [
     <>Caramelo</>,
     <>Juju</>,
     <>Fred</>,
-    <>Billy</>
+    <>Billy</>,
+    <>Alfredo</>
 ]
 
 export const Nickname = [
@@ -21,7 +22,8 @@ export const Nickname = [
     <>@caramelo</>,
     <>@ju</>,
     <>@fred</>,
-    <>@billy</>
+    <>@billy</>,
+    <>@alfredo</>
 ]
 
 export const Descricao = [

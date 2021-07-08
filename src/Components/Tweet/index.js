@@ -37,7 +37,7 @@ const Tweet = (props) => {
 
       <Body>
         <Avatar>
-          <img src={imagePerfil} />
+          <img alt="cachorro" src={imagePerfil} />
         </Avatar>
 
         <Content>
@@ -53,7 +53,7 @@ const Tweet = (props) => {
           </Description>
 
           <ImageContent >
-            <img src={props.url} />
+            <img alt="cachorro" src={props.url} />
           </ImageContent>
 
           <Icons>
