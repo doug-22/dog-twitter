@@ -10,6 +10,15 @@ export const MenuTab = styled.div`
   /* align-items: center; */
   justify-content:space-between;
   /* width: 100%; */
+
+  overflow-x: scroll;
+  overflow-y: hidden;
+  white-space: nowrap;
+
+  ::-webkit-scrollbar {
+    display: none;
+  }
+  
 `;
 
 export const Tab = styled.div`
@@ -19,6 +28,8 @@ export const Tab = styled.div`
   font-weight: bold;
   font-size: 15px;
   text-align: center;
+
+  flex-shrink: 0;
 
   outline: 0;
   cursor: pointer;
